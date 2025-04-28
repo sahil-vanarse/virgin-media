@@ -31,3 +31,18 @@ By using this API, companies can save time and resources that would otherwise be
 1. Clone the repository:
    ```bash
    git clone https://github.com/sahil-vanarse/virgin-media.git
+
+2. Go to Virgin-Media:
+   ```bash
+   cd virgin-media
+
+3. Install Requirements:
+   ```bash
+   pip install -r requirements.txt
+
+
+4. Run the Local Host:
+   ```bash
+   uvicorn main:app --reload
+
+   
